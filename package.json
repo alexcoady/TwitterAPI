@@ -1,0 +1,8 @@
+{
+  "name": "burberry-twitter",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt-contrib-jst": "~0.5.1",
+    "grunt": "~0.4.1"
+  }
+}
